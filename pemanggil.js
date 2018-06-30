@@ -19,18 +19,14 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*10)+ 1);
+var x=Math.floor((Math.random()*6)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/06/best-mt4-advantage-and-earning-through.html"}
-if(x=="2"){xxx="/2018/06/forex-demo-account-forex-basics.html"}
-if(x=="3"){xxx="/2018/06/the-mt4-expert-advisor-taking-fx-world.html"}
-if(x=="4"){xxx="/2018/06/locating-forex-broker-online-find-best.html"}
-if(x=="5"){xxx="/2018/06/recommended-forex-brokers-3-reasons-to.html"}
-if(x=="6"){xxx="/2018/06/new-automated-forex-software-key-buying.html"}
-if(x=="7"){xxx="/2018/06/forex-money-manager-have-you-considered.html"}
-if(x=="8"){xxx="/2018/04/how-to-use-paypal-dollar_24.html"}
-if(x=="9"){xxx="/2018/04/make-money-online_21.html"}
-if(x=="10"){xxx="/2018/04/computer-software-and-hardware_8.html"}
+if(x=="1"){xxx="/2018/04/crusher-stune_4.html"}
+if(x=="2"){xxx="/2017/11/sand-making-plant-designed.html"}
+if(x=="3"){xxx="/2017/11/grading-roller-crusher.html"}
+if(x=="4"){xxx="/2017/11/cone-cruisher.html"}
+if(x=="5"){xxx="/2017/11/vsi-sand-making-machine.html"}
+if(x=="6"){xxx="/2017/11/m-sand-machine-manufacturer.html"}
 a_to_ve[i].href="http://www.infobrokerforex.review"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
